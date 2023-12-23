@@ -1,1 +1,8 @@
 *.txt
+
+# Eger bulundugun dizindeki uzantilari belirtmek istiyorsak
+# *.txt dememiz yetiyor
+
+
+# Fakat butun klasorler altinda bulunan dosyalar icin ignore etmek istiyorsak
+# **.txt dememiz gerekiyor
