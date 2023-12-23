@@ -1,6 +1,6 @@
 *
-!*.py
-!*.json
+!**/*.py
+!**/*.json
 
 # Eger bulundugun dizindeki uzantilari belirtmek istiyorsak
 # *.txt dememiz yetiyor
