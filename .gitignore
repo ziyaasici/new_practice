@@ -1,6 +1,5 @@
-*.txt
 *
-*!.py
+!*.py
 
 # Eger bulundugun dizindeki uzantilari belirtmek istiyorsak
 # *.txt dememiz yetiyor
